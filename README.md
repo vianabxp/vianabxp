@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm VIANA 👾</h1>
 
-<!--
-**vianabxp/vianabxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Front-end Developer | Building cool things
+</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Front-end+Developer;Learning+and+Building;Turning+Ideas+into+Code" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 💻 Interested in Front-end Development
+- 🚀 Building websites and personal projects
+- 🎯 Always learning something new
+
+### ⚡ Technologies
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" />
+</div>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
