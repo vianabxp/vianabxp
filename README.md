@@ -16,7 +16,7 @@
 
 ### 01. PERFIL
 
-Sou **Viana**, focado em desenvolvimento Front-end, com interesse na criação de interfaces modernas, responsivas e visualmente consistentes.
+Me chamo **Guilherme**, focado em desenvolvimento Front-end, com interesse na criação de interfaces modernas, responsivas e visualmente consistentes.
 
 Busco unir desenvolvimento, design e experiência do usuário para construir aplicações web com personalidade própria, atenção aos detalhes e uma estrutura bem organizada.
 
