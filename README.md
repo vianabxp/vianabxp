@@ -11,10 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&width=500&lines=Projetando+experi%C3%AAncias+digitais.;Desenvolvendo+interfaces+modernas.;Evoluindo+uma+linha+de+c%C3%B3digo+por+vez." alt="Apresentação animada"/>
 
 </div>
-
----
-
-### 01. PERFIL
+ PERFIL
 
 Me chamo **Guilherme**, focado em desenvolvimento Front-end, com interesse na criação de interfaces modernas, responsivas e visualmente consistentes.
 
@@ -24,7 +21,7 @@ Meu interesse está em transformar conceitos visuais em interfaces funcionais, e
 
 ---
 
-### 02. STACK TECNOLÓGICA
+ STACK TECNOLÓGICA
 
 **DESENVOLVIMENTO**
 
@@ -46,7 +43,6 @@ Meu interesse está em transformar conceitos visuais em interfaces funcionais, e
 | Next.js | Aplicações web modernas |
 
 ---
+ INTELIGÊNCIA ARTIFICIAL UTILIZADAS
 
-### 03. INTELIGÊNCIA ARTIFICIAL
-
-Utilizo inteligência
+ChatGPT — OpenAI - Claude — Anthropic - Claude — Anthropic
